@@ -4,11 +4,11 @@ end
 
 def array_with_two_elements
   new_with_two_array = ["Ted", "Kitten"]
-end  
+end
 
 def first_element(array)
   array[0]
-end  
+end
 
 def third_element(array)
   array[2]
